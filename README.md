@@ -1,3 +1,3 @@
 # PuzzleBox
 
-Collection of puzzles i have created.
+Collection of programming puzzles i have created.
