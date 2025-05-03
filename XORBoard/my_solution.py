@@ -12,14 +12,3 @@ def is_valid(board):
     
     return True
 
-
-def board_array(string):
-    return [[int(i) for i in line] for line in string.split('\n') if line]
-
-board = """
-00
-11
-"""
-
-print(is_valid(board_array(board)))
-
