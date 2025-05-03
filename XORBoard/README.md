@@ -19,5 +19,5 @@ matrix = [
     [1, 0]
 ]
 ```
-Output: False
+Output: False.
 No combinations of flipping a zeroed matrix would yield this result.
