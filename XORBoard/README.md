@@ -4,6 +4,8 @@ Imagine you have an mxn board of bits, all initialized as zero. The operations y
 Write a program that takes in any mxn bit matrix and outputs True if it is possible to generate it using the operations above, False otherwise.
 
 ## Examples
+
+### 00
 ```
 matrix = [
     [0, 1],
@@ -13,6 +15,7 @@ matrix = [
 Output: True.
 From a zeroed matrix, you can just flip the second column.
 
+### 01
 ```
 matrix = [
     [0, 0],
